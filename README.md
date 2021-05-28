@@ -8,7 +8,7 @@
 <br>
 
 ## I'm a Full Stack Web Developer by day and an outdoor adventurer by night
----
+
 
 - I'm currently looking for new employment. Please reach out if you're hiring!
 - If you'd like to collaborate let's talk!
