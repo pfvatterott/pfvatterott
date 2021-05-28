@@ -5,7 +5,6 @@
 <a href="https://www.linkedin.com/in/paul-vatterott/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/pppaaaauuuullllll/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
 <br>
 <p><a href="https://paul-vatterott.com/">➡️ Check out my website</a></p>
-<br>
 
 ## I'm a Full Stack Web Developer by day and an outdoor adventurer by night
 
