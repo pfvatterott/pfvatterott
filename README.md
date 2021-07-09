@@ -9,7 +9,7 @@
 ## I'm a Full Stack Web Developer by day and an outdoor adventurer by night
 
 
-- I'm currently looking for new employment. Please reach out if you're hiring!
+- Technical Support Specialist at ClickUp!
 - If you'd like to collaborate let's talk!
 - I'm currently working on a new portfolio using React. I'm excited to show it off!
 <br></br>
