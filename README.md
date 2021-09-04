@@ -9,9 +9,8 @@
 ## I'm a Full Stack Web Developer by day and an outdoor adventurer by night
 
 
-- Technical Support Specialist at ClickUp!
+- Technical Support Specialist at ClickUp.
 - If you'd like to collaborate let's talk!
-- I'm currently working on a new portfolio using React. I'm excited to show it off!
 <br></br>
 <!-- Github Stats -->
 [![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=pfvatterott&hide=contribs&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
