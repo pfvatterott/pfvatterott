@@ -9,7 +9,7 @@
 ## I'm a Full Stack Web Developer by day and an outdoor adventurer by night
 
 
-- Technical Support Specialist at ClickUp.
+- Technical Support Champion at ClickUp.
 - If you'd like to collaborate let's talk!
 <br></br>
 <!-- Github Stats -->
