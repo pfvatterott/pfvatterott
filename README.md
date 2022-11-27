@@ -9,7 +9,7 @@
 ## I'm a Full Stack Web Developer by day and an outdoor adventurer by night
 
 
-- Technical Support Champion at ClickUp.
+- Customer Engineer at BetterCloud
 - If you'd like to collaborate let's talk!
 <br></br>
 <!-- Github Stats -->
