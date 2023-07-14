@@ -6,7 +6,7 @@
 <br>
 <p><a href="https://paul-vatterott.com/">➡️ Check out my website</a></p>
 
-## I'm a Full Stack Web Developer by day and an outdoor adventurer by night
+## I'm a software engineer with a focus on NodeJS and React. I'm currently learning Java.
 
 
 - Customer Engineer at BetterCloud
