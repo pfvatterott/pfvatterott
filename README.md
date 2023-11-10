@@ -6,7 +6,7 @@
 <br>
 <p><a href="https://paul-vatterott.com/">➡️ Check out my website</a></p>
 
-## I'm a software engineer with a focus on NodeJS and React. I'm currently learning Java.
+## I'm a software engineer with a focus on NodeJS and React. I'm currently learning Python through Udemy's Complete Python Pro Bootcamp for 2023.
 
 
 - Customer Engineer at BetterCloud
